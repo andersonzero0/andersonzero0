@@ -16,6 +16,4 @@
   <img align="right" alt="A-pic" height="150" style="border-radius:50px;" src="https://uploaddeimagens.com.br/images/003/508/377/original/iconperfil.jpg?1635365722">
 </div>
   
-##
-  
 ![Snake animation](https://github.com/andersonzero0/andersonzero0/blob/output/github-contribution-grid-snake.svg)
