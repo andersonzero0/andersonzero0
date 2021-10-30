@@ -1,10 +1,3 @@
-### Olá! Eu sou o Anderson
-
-- 🌱 Estudando HTML-CSS e Lógica da programação
-- 🤔 Estou procurando ajuda em HTML e CSS
-- 😊 Iniciante
-
-##
 
 <div align="center">
   <a href="https://github.com/andersonzero0">
@@ -22,3 +15,9 @@
 </div>
   
 ![Snake animation](https://github.com/andersonzero0/andersonzero0/blob/output/github-contribution-grid-snake.svg)
+  
+  ### Olá! Eu sou o Anderson
+
+- 🌱 Estudando HTML-CSS e Lógica da programação
+- 🤔 Estou procurando ajuda em HTML e CSS
+- 😊 Iniciante
