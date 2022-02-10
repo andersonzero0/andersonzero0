@@ -21,6 +21,5 @@
   
   ### Olá! Eu sou o Anderson
 
-- 🌱 Estudando HTML-CSS e Lógica da programação
-- 🤔 Estou procurando ajuda em HTML e CSS
+- 🌱 Estudando programação web, java e python
 - 😊 Iniciante
