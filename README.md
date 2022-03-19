@@ -24,4 +24,4 @@
 
 - 🖥️ T.I (2/3)
 - 📚 studying web programming, java and python
-- 🇧🇷 Brazil
+- Brazil
