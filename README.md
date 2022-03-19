@@ -22,5 +22,6 @@
   
   ### Olá! Eu sou o Anderson
 
-- 🌱 Estudando programação web, java e python
-- 😊 Iniciante
+🖥️ T.I (2/3)
+📚 studying web programming, java and python
+🇧🇷 Brazil
