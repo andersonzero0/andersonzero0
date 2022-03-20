@@ -23,5 +23,5 @@
   ### Olá! Eu sou o Anderson
 
 - 🖥️ T.I (2/3)
-- 📚 studying web programming, java and python
+- 📚 studying: PHP & MySQL, PYTHON and JAVA
 - Brazil
