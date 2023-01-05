@@ -4,8 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonzero0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonzero0&layout=compact&langs_count=7&theme=onedark">
     <br>
-  <img align="right" alt="A-pic" height="150" style="border-radius:50px;"
-  src="https://i.imgur.com/riJO3XP.png">
+  <img align="right" alt="A-pic" height="150" style="border-radius: 50%;"
+  src="https://avatars.githubusercontent.com/u/92057959">
 </div>
   
   ##
