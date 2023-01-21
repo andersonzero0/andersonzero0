@@ -4,8 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonzero0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonzero0&layout=compact&langs_count=7&theme=onedark">
     <br>
-  <img align="right" alt="A-pic" height="150"
-  src="https://i.imgur.com/sbTbmJ9.png">
+  <img align="right" alt="A-pic" height="170"
+  src="https://i.imgur.com/Sy3Gvnq.png">
 </div>
   
   ##
