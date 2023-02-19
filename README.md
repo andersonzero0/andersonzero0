@@ -9,7 +9,7 @@
       <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
       <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/Sy3Gvnq.png">
+      <img align="right" height="150" src="https://i.imgur.com/Sy3Gvnq.png">
   </div>
 </div>
 
