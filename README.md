@@ -12,6 +12,8 @@
       <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/Sy3Gvnq.png">
   </div>
 </div>
+
+##
   
 ![Snake animation](https://github.com/andersonzero0/andersonzero0/blob/output/github-contribution-grid-snake.svg)
   
