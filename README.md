@@ -17,9 +17,9 @@
 ##
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="80"/>
+  <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="100px" align="center"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=CF0210&center=true&width=435&lines=Developer)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -31,10 +31,19 @@
 </div>
 
 ##
-<div align="center" width="100">
+<div align="center">
+ <img align="left" src="https://i.imgur.com/fJdi2kV.png" width="210px"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=andersonzero0&theme=dark)](https://git.io/streak-stats)
+  <h1 align="center">Sobre Mim</h1>
+  
+  <p>Sou um programador iniciante-intermediário com cerca de 3 anos de experiência em desenvolvimento web. Atualmente estou aprofundando meus conhecimentos em JavaScript, incluindo o uso de frameworks como Node.js e React.js. Minha intenção é fixar-me como desenvolvedor back-end, mas também tenho uma boa base em front-end.
 
+Estou no último ano do ensino médio em Informática em uma escola estadual de ensino profissionalizante Walter Ramos de Araújo, onde tenho aprendido programação web com HTML, CSS, JavaScript, PHP, MySQL e Java. Além disso, estou atualmente cursando o Laboratório Web, de Software e de Hardware, onde tenho a oportunidade de aplicar meus conhecimentos em projetos práticos e obter experiência em programação orientada a objetos.
+
+Recentemente, concluí certificações em JavaScript Básico pela Sololearn e Hackerrank, HTML, CSS e JavaScript pela Escola do Trabalhador 4.0 em parceria com a Microsoft, e Discover pela Rocketseat, onde aprendi também Node.js, React.js, SQL, Terminal, TypeScript, API e Git/Github.
+
+Estou animado para continuar minha jornada como desenvolvedor e estou sempre procurando maneiras de melhorar minhas habilidades e aprender novas tecnologias. Se você estiver interessado em trabalhar comigo ou tiver alguma oportunidade que se encaixe no meu perfil, por favor, não hesite em entrar em contato.</p>
+  
 </div>
 
 <div align="center">
@@ -45,4 +54,8 @@
 
 ##
   
+ <div align="center"> 
+  
 ![Snake animation](https://github.com/andersonzero0/andersonzero0/blob/output/github-contribution-grid-snake.svg)
+   
+  </div>  
