@@ -26,11 +26,11 @@
 
 ##
 <div align="center">
- <img align="left" src="https://i.imgur.com/fJdi2kV.png" width="210px"/>
+ <img src="https://i.imgur.com/fJdi2kV.png" width="210px"/>
 
   <h1 align="center">Sobre Mim</h1>
   
-  <p>Sou um programador iniciante-intermediário com cerca de 3 anos de experiência em desenvolvimento web. Atualmente estou aprofundando meus conhecimentos em JavaScript, incluindo o uso de frameworks como Node.js e React.js. Minha intenção é fixar-me como desenvolvedor back-end, mas também tenho uma boa base em front-end.</p>
+  <p>Sou um programador começando nessa área, já estudo Desenvolvimento Web há mais ou menos 3 anos, dês de então tenho aprendido HTML, CSS, JavaScript, PHP, MySQL, Node, ReactJS e TypeScript</p>
   
 </div>
 
