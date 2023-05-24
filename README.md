@@ -1,18 +1,8 @@
 <h1 align="center">Hi, I'm Anderson Viana <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTllNTE2ZWM1M2FjNWM3ODZkMjMzZjc2ZjhiNDdkM2YyOTdiMTJlZSZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/andersonvianaa" target="_blank">
-    <img src="https://img.shields.io/badge/linkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/andersonzero0" target="_blank">
-    <img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://linktr.ee/dev_andersonzero" target="_blank">
-    <img src="https://img.shields.io/badge/redirect-green?style=flat&logo=linktree&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/andersonzero0?color=gree&logo=github" />
-  <img src="https://img.shields.io/github/stars/andersonzero0?color=gree&logo=github&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=andersonzero0&style=flat-square&color=blue" alt=""/>
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/dev_andersonviana/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/andersonvianaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ##
 
@@ -22,25 +12,15 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=CF0210&center=true&width=435&lines=Developer)](https://git.io/typing-svg)
 </div>
 
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<p align='center'>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 
 </p>
 
@@ -50,13 +30,7 @@
 
   <h1 align="center">Sobre Mim</h1>
   
-  <p>Sou um programador iniciante-intermediário com cerca de 3 anos de experiência em desenvolvimento web. Atualmente estou aprofundando meus conhecimentos em JavaScript, incluindo o uso de frameworks como Node.js e React.js. Minha intenção é fixar-me como desenvolvedor back-end, mas também tenho uma boa base em front-end.
-
-Estou no último ano do ensino médio em Informática em uma escola estadual de ensino profissionalizante Walter Ramos de Araújo, onde tenho aprendido programação web com HTML, CSS, JavaScript, PHP, MySQL e Java. Além disso, estou atualmente cursando o Laboratório Web, de Software e de Hardware, onde tenho a oportunidade de aplicar meus conhecimentos em projetos práticos e obter experiência em programação orientada a objetos.
-
-Recentemente, concluí certificações em JavaScript Básico pela Sololearn e Hackerrank, HTML, CSS e JavaScript pela Escola do Trabalhador 4.0 em parceria com a Microsoft, e Discover pela Rocketseat, onde aprendi também Node.js, React.js, SQL, Terminal, TypeScript, API e Git/Github.
-
-Estou animado para continuar minha jornada como desenvolvedor e estou sempre procurando maneiras de melhorar minhas habilidades e aprender novas tecnologias. Se você estiver interessado em trabalhar comigo ou tiver alguma oportunidade que se encaixe no meu perfil, por favor, não hesite em entrar em contato.</p>
+  <p>Sou um programador iniciante-intermediário com cerca de 3 anos de experiência em desenvolvimento web. Atualmente estou aprofundando meus conhecimentos em JavaScript, incluindo o uso de frameworks como Node.js e React.js. Minha intenção é fixar-me como desenvolvedor back-end, mas também tenho uma boa base em front-end.</p>
   
 </div>
 
