@@ -30,7 +30,20 @@
 
   <h1 align="center">Sobre Mim</h1>
   
-  <p>Sou um programador começando nessa área, já estudo Desenvolvimento Web há mais ou menos 3 anos, dês de então tenho aprendido HTML, CSS, JavaScript, PHP, MySQL, Node, ReactJS e TypeScript</p>
+  <p>
+Eu sou um desenvolvedor web apaixonado por programação e pela criação de experiências web incríveis. Estudo desenvolvimento web há aproximadamente 3 anos e adquiri conhecimentos em HTML, CSS, JavaScript, PHP, MySQL, Node.js, ReactJS e TypeScript.
+
+Durante minha jornada de aprendizado, concentrei-me em dominar essas tecnologias para construir websites interativos e amigáveis aos usuários. Amo o processo de transformar ideias em aplicações web funcionais e visualmente atraentes.
+
+Com uma base sólida em desenvolvimento front-end e conhecimento em tecnologias back-end, busco desenvolver soluções perfeitas e escaláveis. Gosto de trabalhar com bancos de dados, lidar com a lógica do lado do servidor e implementar interatividade do lado do cliente.
+
+Estou sempre ansioso para aprender e me manter atualizado com as últimas tendências da indústria. Colaborar com pessoas que compartilham interesses semelhantes e enfrentar novos desafios é o que me impulsiona.
+
+Vamos nos conectar e discutir como podemos criar experiências web impactantes juntos!
+
+Estou ansioso para conectar com você!
+
+</p>
   
 </div>
 
