@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
-
+  <img src="https://img.shields.io/badge/MySQL-%23F05033.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ##
