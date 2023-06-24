@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anderson Viana <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTllNTE2ZWM1M2FjNWM3ODZkMjMzZjc2ZjhiNDdkM2YyOTdiMTJlZSZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 <p align="center">
-  <a href="https://www.instagram.com/dev_andersonviana/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/andersonzero0"><img src="https://img.shields.io/badge/GitHub-0F0F0F?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/andersonvianaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -15,38 +15,43 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px"><br>
+  <img src="https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px"><br>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/MySQL-%23F05033.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/MySQL-%2331758F.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ##
-<div align="center">
- <img src="https://i.imgur.com/fJdi2kV.png" width="210px"/>
+<span align="center">
+  <div align="center">
+ <img src="https://i.imgur.com/fJdi2kV.png" width="150px"/>
+  </div>
 
-  <h1 align="center">Sobre Mim</h1>
-  
+<span align="center">
+  <h1>About Me</h1>
   <p>
-Eu sou um desenvolvedor web apaixonado por programação e pela criação de experiências web incríveis. Estudo desenvolvimento web há aproximadamente 3 anos e adquiri conhecimentos em HTML, CSS, JavaScript, PHP, MySQL, Node.js, ReactJS e TypeScript.
-
-Durante minha jornada de aprendizado, concentrei-me em dominar essas tecnologias para construir websites interativos e amigáveis aos usuários. Amo o processo de transformar ideias em aplicações web funcionais e visualmente atraentes.
-
-Com uma base sólida em desenvolvimento front-end e conhecimento em tecnologias back-end, busco desenvolver soluções perfeitas e escaláveis. Gosto de trabalhar com bancos de dados, lidar com a lógica do lado do servidor e implementar interatividade do lado do cliente.
-
-Estou sempre ansioso para aprender e me manter atualizado com as últimas tendências da indústria. Colaborar com pessoas que compartilham interesses semelhantes e enfrentar novos desafios é o que me impulsiona.
-
-Vamos nos conectar e discutir como podemos criar experiências web impactantes juntos!
-
-Estou ansioso para conectar com você!
+I'm a web developer passionate about learning
+new things. I'm looking for an opportunity to
+first job or internship to continue
+improving my skills. I'm highly focused
+and learning fast, which allows me to solve
+problems efficiently. My goal is to evolve
+constantly in this profession and contribute
+positively for the company you work for. In addition
+In addition, I am open to new opportunities for
+learning and I intend to venture into
+mobile app development in the future. if
+are you looking for a dedicated web developer and
+enthusiastic, who is always looking to improve, I
+would love to be part of your team.
 
 </p>
+</span>
   
-</div>
+</span>
 
 <div align="center">
     <a href="https://github.com/andersonzero0">
