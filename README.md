@@ -26,10 +26,6 @@
 
 ##
 <span align="center">
-  <div align="center">
- <img src="https://i.imgur.com/fJdi2kV.png" width="150px"/>
-  </div>
-
 <span align="center">
   <h1>About Me</h1>
   <p>
