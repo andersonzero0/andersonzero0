@@ -30,20 +30,7 @@
 <span align="center">
   <h1>About Me</h1>
   <p>
-I'm a web developer passionate about learning
-new things. I'm looking for an opportunity to
-first job or internship to continue
-improving my skills. I'm highly focused
-and learning fast, which allows me to solve
-problems efficiently. My goal is to evolve
-constantly in this profession and contribute
-positively for the company you work for. In addition
-In addition, I am open to new opportunities for
-learning and I intend to venture into
-mobile app development in the future. if
-are you looking for a dedicated web developer and
-enthusiastic, who is always looking to improve, I
-would love to be part of your team.
+Desenvolvedor Web apaixonado por desafios, especializado em JavaScript para criação de soluções inovadoras. Atuo no desenvolvimento tanto do front-end quanto do back-end, com um foco especial e entusiasmo pelo desenvolvimento back-end. Atualmente, contribuo como estagiário em um ambiente dinâmico, buscando aprender e aplicar constantemente as melhores práticas para criar experiências digitais excepcionais. Estou sempre aberto a novas oportunidades e colaborações para aprimorar minhas habilidades e agregar valor aos projetos. Vamos conectar e explorar o mundo do desenvolvimento juntos!
 
 </p>
 </span>
