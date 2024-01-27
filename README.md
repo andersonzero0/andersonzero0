@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anderson Viana <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTllNTE2ZWM1M2FjNWM3ODZkMjMzZjc2ZjhiNDdkM2YyOTdiMTJlZSZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
+<img align="center" src="https://i.imgur.com/hHVcwAN.png"/>
 <p align="center">
   <a href="https://github.com/andersonzero0"><img src="https://img.shields.io/badge/GitHub-0F0F0F?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/andersonvianaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
