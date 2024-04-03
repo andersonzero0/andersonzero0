@@ -1,4 +1,3 @@
-<img align="center" src="https://i.imgur.com/hHVcwAN.png"/>
 <p align="center">
   <a href="https://github.com/andersonzero0"><img src="https://img.shields.io/badge/GitHub-0F0F0F?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/andersonvianaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,11 +12,11 @@
 </div>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/CSHARP-993399.svg?style=for-the-badge&logo=csharp&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"><br>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -28,16 +27,6 @@
 </p>
 
 ##
-<span align="center">
-<span align="center">
-  <h1>About Me</h1>
-  <p>
-Desenvolvedor Web apaixonado por desafios, especializado em JavaScript para criação de soluções inovadoras. Atuo no desenvolvimento tanto do front-end quanto do back-end, com um foco especial e entusiasmo pelo desenvolvimento back-end. Atualmente, contribuo como estagiário em um ambiente dinâmico, buscando aprender e aplicar constantemente as melhores práticas para criar experiências digitais excepcionais. Estou sempre aberto a novas oportunidades e colaborações para aprimorar minhas habilidades e agregar valor aos projetos. Vamos conectar e explorar o mundo do desenvolvimento juntos!
-
-</p>
-</span>
-  
-</span>
 
 <div align="center">
     <a href="https://github.com/andersonzero0">
