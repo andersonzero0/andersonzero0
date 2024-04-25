@@ -12,13 +12,15 @@ Linguagens & Tecnologias: `Nodejs`, `Reactjs`, `React Native`, `C#`, `Nestjs`\
 
 ##
 
-<div id="header">
+<!--<div id="header">
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="100px" align="center"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&duration=1500&pause=&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=200&height=30&lines=Code+%26+Coffee+%E2%98%95)](https://git.io/typing-svg)
-</div>
+</div>!-->
 
-<p>
+<img height="180px" src="https://pbs.twimg.com/profile_banners/1505203079402201096/1713547693/1500x500" align="center"/>
+
+<!--<p>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -31,13 +33,13 @@ Linguagens & Tecnologias: `Nodejs`, `Reactjs`, `React Native`, `C#`, `Nestjs`\
   <img src="https://img.shields.io/badge/MySQL-%2331758F.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/Firebase-FCC624.svg?style=for-the-badge&logo=firebase&logoColor=black" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/PostgreSQL-0064A5.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+</p>!-->
 
 ##
 
 <div>
     <a href="https://github.com/andersonzero0">
-    <img width="500" height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonzero0&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&title_color=000$text_color=000&rank_icon=github&hide_title=true"/><br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonzero0&show_icons=true&include_all_commits=true&count_private=true&title_color=000$text_color=000&rank_icon=github&hide_title=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonzero0&layout=compact&langs_count=6">
 </div>
 
