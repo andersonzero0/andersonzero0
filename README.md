@@ -2,7 +2,7 @@
 
 **Software Developer** \
 [**StageTree**](https://www.stagetree.com.br/) • Full-time \
-Linguagens & Tecnologias: `Nodejs`, `Reactjs`, `React Native`, `C#`, `Nestjs`\
+Linguagens & Tecnologias: `Nodejs`, `Reactjs`, `React Native`, `C#`, `Nestjs`
 
 <p>
   <a href="https://github.com/andersonzero0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
