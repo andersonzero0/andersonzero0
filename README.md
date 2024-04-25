@@ -15,7 +15,7 @@ Linguagens & Tecnologias: `Nodejs`, `Reactjs`, `React Native`, `C#`, `Nestjs`
 
 <div>
     <a href="https://github.com/andersonzero0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonzero0&show_icons=true&&rank_icon=github&include_all_commits=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&hide_title=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonzero0&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&hide_title=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonzero0&layout=compact&langs_count=6&title_color=000000&text_color=000000&bg_color=FFFFFF">
 </div>
 
