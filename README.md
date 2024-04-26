@@ -11,14 +11,12 @@
 
 ---
 
+<img align="left"  height="150em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY2NHZiZmVlOHBkaHFhMzM2N2djbm9ocHd6ZWJzM2pwcmFkcm96eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarE7J8ogChhTyEg/giphy.gif"/>
+
 ### Hello World 👋
-
-<img align="right" height="150em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY2NHZiZmVlOHBkaHFhMzM2N2djbm9ocHd6ZWJzM2pwcmFkcm96eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarE7J8ogChhTyEg/giphy.gif"/>
-
 <span>I work as a software developer with NodeJS and C#. <br/> I am also a Computer Science student. <br/> I am studying to delve deeper into algorithms, <br/> architecture, digital circuits, and data science.</span>
 
----
-
+##
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonzero0&show_icons=true&&rank_icon=github&include_all_commits=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&hide_title=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonzero0&layout=compact&langs_count=6&title_color=000000&text_color=000000&bg_color=FFFFFF">
