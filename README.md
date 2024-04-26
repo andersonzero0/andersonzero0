@@ -7,6 +7,8 @@
 <p>
   <a href="https://github.com/andersonzero0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/andersonvianaa/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/andersonn_dev"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://dev.to/andersonzero0"><img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
 
 ---
