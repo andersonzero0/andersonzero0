@@ -11,7 +11,7 @@
 
 ---
 
-<img align="left"  height="150em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY2NHZiZmVlOHBkaHFhMzM2N2djbm9ocHd6ZWJzM2pwcmFkcm96eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarE7J8ogChhTyEg/giphy.gif"/>
+<img align="right"  height="150em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY2NHZiZmVlOHBkaHFhMzM2N2djbm9ocHd6ZWJzM2pwcmFkcm96eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarE7J8ogChhTyEg/giphy.gif"/>
 
 ### Hello World 👋
 <span>I work as a software developer with NodeJS and C#. <br/> I am also a Computer Science student. <br/> I am studying to delve deeper into algorithms, <br/> architecture, digital circuits, and data science.</span>
