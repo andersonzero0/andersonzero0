@@ -23,8 +23,8 @@
 
 ##
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonzero0&show_icons=true&&rank_icon=github&include_all_commits=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&hide_title=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonzero0&layout=compact&langs_count=6&title_color=000000&text_color=000000&bg_color=FFFFFF">
+    <img height="150em" src="https://github-readme-stats-eosin-ten-54.vercel.app/api?username=andersonzero0&show_icons=true&&rank_icon=linux&include_all_commits=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&hide_title=true"/>
+    <img height="150em" src="https://github-readme-stats-eosin-ten-54.vercel.app/api/top-langs/?username=andersonzero0&layout=compact&langs_count=6&title_color=000000&text_color=000000&bg_color=FFFFFF">
 </div>
 
 ##
