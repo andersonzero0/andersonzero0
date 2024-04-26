@@ -11,20 +11,17 @@
 
 ##
 
-<div style="display: flex; font-family: monospace, monospace; gap: 10px">
-  <div style="flex: 1; display: flex; flex-flow: row wrap; jutify-content: center; align-itens: center; width: 150em">
-    <h2>Hello World 👋</h2>
-    <p>I work as a software developer with NodeJS and C#. I am also a Computer Science student. I am studying to delve deeper into algorithms, architecture, digital circuits and data science.</p>
-  </div>
-  <div style="flex: 1; width: 150em">
-    <img height="150em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY2NHZiZmVlOHBkaHFhMzM2N2djbm9ocHd6ZWJzM2pwcmFkcm96eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarE7J8ogChhTyEg/giphy.gif"/>
-  </div>
+<div style="font-family: monospace, monospace; ">
+  <span align="left">
+    <span>Hello World 👋</span>
+    <span>I work as a software developer with NodeJS and C#. <br/> I am also a Computer Science student. <br/> I am studying to delve deeper into algorithms, <br/> architecture, digital circuits, and data science.</span>
+  </span>
+  <img align="right" height="150em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY2NHZiZmVlOHBkaHFhMzM2N2djbm9ocHd6ZWJzM2pwcmFkcm96eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarE7J8ogChhTyEg/giphy.gif"/>
 </div>
 
 ##
 
 <div>
-    <a href="https://github.com/andersonzero0">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonzero0&show_icons=true&&rank_icon=github&include_all_commits=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&hide_title=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonzero0&layout=compact&langs_count=6&title_color=000000&text_color=000000&bg_color=FFFFFF">
 </div>
