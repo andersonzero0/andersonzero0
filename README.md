@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=149&color=FFFFFF&fontSize=32&fontAlignY=36&textBg=false&fontColor=FFF&animation=twinkling"/>
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&height=149&color=FFFFFF&fontSize=32&fontAlignY=36&textBg=false&fontColor=FFF&animation=twinkling"/>!-->
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.pinimg.com/564x/23/a7/dc/23a7dc4c576328dc278960241a4adb39.jpg"/>](https://www.github.com/andersonzero0)
 
@@ -37,4 +37,4 @@
    
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=149&color=FFFFFF&fontSize=32&fontAlignY=36&textBg=false&fontColor=FFF&animation=twinkling&section=footer"/>
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&height=149&color=FFFFFF&fontSize=32&fontAlignY=36&textBg=false&fontColor=FFF&animation=twinkling&section=footer"/>!-->
