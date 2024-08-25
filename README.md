@@ -8,7 +8,7 @@
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
                 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&repeat=false&width=435&lines=Anderson+Viana+%7C+Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&background=0D1117&vCenter=true&repeat=false&width=435&lines=Software+Developer" alt="Typing SVG" /></a>
     
 </p>    
 
