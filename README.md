@@ -18,6 +18,8 @@
   <a href="https://twitter.com/andersonn_dev"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://dev.to/andersonzero0"><img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,angular,react,mongodb,postgresql,mysql,git,kafka,redis&theme=dark)](https://andersonzero0.github.io)
                                                                                                   
                                                                                                     
         
