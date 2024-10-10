@@ -17,7 +17,7 @@
 <img align="left" height="150em" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"/>
 
 ### Hello World 👋
-<span>I work as a software developer with NodeJS and C#. <br/> I am also a Computer Science student. <br/> I am studying to delve deeper into algorithms, <br/> architecture, digital circuits, and data science.</span> \
+<span>I work as a software developer with NodeJS, NestJS and Typescript. <br/> I am also a Computer Science student. <br/> I am studying to delve deeper into algorithms, <br/> architecture, digital circuits, and data science.</span> \
 
 </div>
 
